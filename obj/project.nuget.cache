@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dbp7HlkjH9Me7L3aOLCocHaJSy3OlR/iJlen7oh8NezH4THznKKi01iAURYwmPi6ipetKD7O7/S17y45W4IvaA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\SeleniumBot\\SeleniumBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\purdydj\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\purdydj\\.nuget\\packages\\selenium.chrome.webdriver\\83.0.0\\selenium.chrome.webdriver.83.0.0.nupkg.sha512",
+    "C:\\Users\\purdydj\\.nuget\\packages\\selenium.support\\4.0.0-alpha05\\selenium.support.4.0.0-alpha05.nupkg.sha512",
+    "C:\\Users\\purdydj\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha05\\selenium.webdriver.4.0.0-alpha05.nupkg.sha512"
+  ],
+  "logs": []
+}

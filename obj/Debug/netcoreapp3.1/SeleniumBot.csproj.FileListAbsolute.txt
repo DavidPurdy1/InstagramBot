@@ -1,0 +1,17 @@
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\SeleniumBot.exe
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\SeleniumBot.deps.json
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\SeleniumBot.runtimeconfig.json
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\SeleniumBot.runtimeconfig.dev.json
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\SeleniumBot.dll
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\SeleniumBot.pdb
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.csprojAssemblyReference.cache
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.AssemblyInfoInputs.cache
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.AssemblyInfo.cs
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.csproj.CoreCompileInputs.cache
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.dll
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.pdb
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.genruntimeconfig.cache
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\GitHub\SeleniumBot\obj\Debug\netcoreapp3.1\SeleniumBot.csproj.CopyComplete
+C:\GitHub\SeleniumBot\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
