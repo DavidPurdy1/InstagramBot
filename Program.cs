@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System.Linq;
+using System.Security.Principal;
+using System.Collections.Generic;
 using System.Threading;
 using System;
 using OpenQA.Selenium;
@@ -53,18 +55,17 @@ namespace SeleniumBot
             SelectElement dropDown = new SelectElement(list);
             dropDown.SelectByText("1988");
             driver.FindElement(By.CssSelector("button[class='sqdOP  L3NKy _4pI4F  y3zKF     '")).Click();
-
-            driver.FindElement(By.TagName("body")).SendKeys(Keys.Control + "t");
+            driver.SwitchTo().Window(driver.WindowHandles.First());
 
         }
         public void createEmail()
         {
-
             driver.Navigate().GoToUrl("https://temp-mail.org/en/");
             driver.FindElement(By.Id("click-to-refresh"));
             Thread.Sleep(5000);
             string s = driver.FindElement(By.Id("mail")).GetAttribute("value");
-            driver.Navigate().GoToUrl("https://www.instagram.com/accounts/emailsignup/");
+            ((IJavaScriptExecutor)driver).ExecuteScript("window.open('https://www.instagram.com/accounts/emailsignup/');");
+            driver.SwitchTo().Window(driver.WindowHandles.Last());
             driver.FindElement(By.Name("emailOrPhone")).SendKeys(s);
         }
     }
